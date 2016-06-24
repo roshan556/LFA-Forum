@@ -10,6 +10,7 @@ namespace LFA.Forum.CosoleApp
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
